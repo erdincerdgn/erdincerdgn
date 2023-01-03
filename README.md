@@ -2,7 +2,7 @@
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Javascript, Bootstrap
-- 💬 &nbsp;Ask me about anything related to Css/Sass/Html/C#/Python
+- 💬 &nbsp;Ask me about anything related to CSS/SASS/HTML/C#/Python/Figma
 - 📫 &nbsp;How to reach me: [@erdincerdgn](https://twitter.com/erdincerdgn) or <a rel="me" href="https://stackoverflow.com/users/19852926/erdincerdogan">Stackoverflow</a>
 🔗 &nbsp;**Connect with me**
 <p align="left">
