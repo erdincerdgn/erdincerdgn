@@ -1,8 +1,8 @@
 ### Hi there <a href="https://twitter.com/erdincerdgn"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Javascript, Bootstrap
-- 💬 &nbsp;Ask me about anything related to CSS/SASS/HTML/C#/Python/Figma/Photoshop
+- 🌱 &nbsp;I’m currently learning ASP.NET MVC
+- 💬 &nbsp;Ask me about anything related to Photoshop/Figma/HTML/CSS/JS/SASS/C#/ASP.NET MVC/MSSQL/Python
 - 📫 &nbsp;How to reach me: [@erdincerdgn](https://twitter.com/erdincerdgn) or <a rel="me" href="https://stackoverflow.com/users/19852926/erdincerdogan">Stackoverflow</a>
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -14,7 +14,7 @@
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
-I am a Self-Taught Web Developer with 2+ years of experience in developing websites.
+I am a Backend Developer with 2+ years of experience in developing websites.
 </details> 
 
 <details>
