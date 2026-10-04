@@ -1,25 +1,55 @@
-### Hi there <a href="https://twitter.com/erdincerdgn"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# Hi, I'm Erdinç Erdoğan 👋
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning AWS
-- 💬 &nbsp;Ask me about anything related to Photoshop/Figma/NextJS/NestJS/Postgres/Prisma/Fastify
-- 📫 &nbsp;How to reach me: [@erdincerdgn](https://twitter.com/erdincerdgn) or <a rel="me" href="https://stackoverflow.com/users/19852926/erdincerdogan">Stackoverflow</a>
-🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://dev.to/erdincerdgn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="erdincerdgn" height="30" width="40" /></a>
-<a href="https://twitter.com/erdincerdgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erdincerdgn" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19852926/erdincerdogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="erdincerdgn" height="30" width="40" /></a>
-<a href="https://instagram.com/erdinc61erdogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erdincerdgn" height="30" width="40" /></a>
+**Backend & Distributed Systems Engineer | AI Integrator**
 
-<details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
-I am a Backend Developer with 2+ years of experience in developing websites.
-</details> 
+Currently based in Istanbul, I am a software developer specializing in microservices architectures (DDD, Hexagonal), AI integrations, and highly scalable systems. I began my educational journey with an associate degree in Computer Programming (2025) and am currently preparing to continue my academic path at Texas State University (B.S. in Computer Science).
 
-<details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-  <br/>
-  <p align="left"><a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a></p>
+---
 
-</details>
+### 🚀 What I Do
+
+- 🏗️ **Distributed Systems:** Designing event-driven (CQRS/Outbox Pattern) microservices architectures using NestJS, gRPC, and Apache Kafka.
+- 🧠 **AI Integrations:** Integrating local LLMs, Whisper STT, YOLO11m-seg, and RAG architectures (ComfyUI, Ollama) into real-world projects.
+
+---
+
+### 💻 Tech Stack
+
+**Backend & Architecture:**  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+**Database & Infrastructure:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Frontend & Mobile:**  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### 🏆 Featured Projects
+
+*   **Bitelang** *(Currently under development)*: A highly scalable, AI-powered TikTok-style language learning platform. Built with Hexagonal architecture, NestJS, Python (Whisper AI), Kafka, gRPC, and the SuperMemo-2 spaced repetition algorithm.
+*   **NeuralTrade** *(Currently under development)*: A microservices-based, AI-powered quantitative trading platform featured on TV8. Integrates time-series regime detection and vector search.
+*   **GreenValue AI** *(Currently under development)*: A PropTech ecosystem. Features computer vision via YOLO11m-seg, PostGIS/CARTO mapping, and a physics-based thermal engine.
+*   **GrowthFast** *(Currently under development)*: A local-first social media automation platform powered by autonomous AI agent crews, local LLMs, and FFmpeg video processing.
+*   **ConstructIT** *(Currently under development)*: An offline CAD/DWG viewer and markup mobile application utilizing React Native and WebAssembly (DWGDXF).
+
+---
+
+### ⚡ Beyond the Screen
+
+*   📚 **Reading:** Philosophy, system design, and finance. My go-to authors include Nietzsche, Dostoevsky, and Benjamin Graham.
+*   🥊 **Physical Routine:** Calisthenics, running, and a background in kickboxing.
+*   ⚽ **Passion:** Proud supporter of Trabzonspor.
+
+💬 **Let's Connect:** Whether it's about distributed systems, AI optimizations, or software architecture, my door is always open!
