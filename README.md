@@ -2,7 +2,7 @@
 
 **Backend & Distributed Systems Engineer | AI Integrator**
 
-Currently based in Istanbul, I am a software developer specializing in microservices architectures (DDD, Hexagonal), AI integrations, and highly scalable systems. I began my educational journey with an associate degree in Computer Programming (2025) and am currently preparing to continue my academic path at Texas State University (B.S. in Computer Science).
+Currently based in Istanbul, I am a software developer specializing in microservices architectures (DDD, Hexagonal), AI integrations, and highly scalable systems.
 
 ---
 
